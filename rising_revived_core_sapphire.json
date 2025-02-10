@@ -1,13 +1,21 @@
 {
   "response": [
     {
-      "datetime": 1739167866,
+      "maintainer": "RAFSuNX",
+      "oem": "Xiaomi",
+      "device": "sapphire",
       "filename": "RisingOS_Revived-6.2.1-STABLE-25020915-CORE-COMMUNITY-sapphire.zip",
-      "id": "932140b82056d2b60b543cfb503b6048",
-      "romtype": "stable",
+      "download": "https://downloads.sourceforge.net/project/rafsunx/RisingOS/RisingOS_Revived-6.2.1-STABLE-25020915-CORE-COMMUNITY-sapphire.zip",
+      "timestamp": 1739167866,
+      "md5": "932140b82056d2b60b543cfb503b6048",
+      "sha256": "d0c5660dabac9db6f28f408d80877eb949a380a615e02db6ed9155bba2eec38c",
       "size": 2481826532,
-      "url": "https://downloads.sourceforge.net/project/rafsunx/RisingOS/RisingOS_Revived-6.2.1-STABLE-25020915-CORE-COMMUNITY-sapphire.zip",
-      "version": "6.2.1"
+      "version": "6.2.1-Boundless",
+      "buildtype": "STABLE",
+      "forum": "",
+      "recovery": "https://t.me/keoshlapgroup/14198",
+      "paypal": "",
+      "telegram": "https://t.me/keoshlapgroup"
     }
   ]
 }
