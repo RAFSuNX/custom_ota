@@ -1,1 +1,21 @@
-
+{
+  "response": [
+    {
+      "maintainer": "RAFSuNX",
+      "oem": "Xiaomi",
+      "device": "sapphire",
+      "filename": "RisingOS_Revived-6.2.1-STABLE-25021009-VANILLA-COMMUNITY-sapphire-ota.zip",
+      "download": "https://sourceforge.net/projects/rafsunx/files/RisingOS/RisingOS_Revived-6.2.1-STABLE-25021009-VANILLA-COMMUNITY-sapphire-ota.zip/download",
+      "timestamp": 1739181138,
+      "md5": "5932c6efe2e60344660b9ac3c911be89",
+      "sha256": "13fa48fc7ecd2549c7dc63fc27f9084932b1def9c31c239438614609c197204d",
+      "size": 2481764079,
+      "version": "6.2.1-Boundless",
+      "buildtype": "STABLE",
+      "forum": "",
+      "recovery": "https://orangefox.download/device/topaz",
+      "paypal": "",
+      "telegram": "https://t.me/anythingxwhatsoever"
+    }
+  ]
+}
