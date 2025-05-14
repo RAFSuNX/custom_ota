@@ -5,7 +5,7 @@
       "oem": "Xiaomi",
       "device": "sapphire",
       "filename": "RisingOS_Revived-7.0-250514-1917-CORE-COMMUNITY-sapphire-ota.zip",
-      "download": "",
+      "download": "https://codeberg.org/RAFSuNX/ota_release/releases/download/RisingOS_Revived_7.0_Persis_Stable/RisingOS_Revived-7.0-250514-1917-CORE-COMMUNITY-sapphire-ota.zip",
       "timestamp": 1747228512,
       "md5": "60c12d39cd494895fb13a498daa7e420",
       "sha256": "decc8235301722d62fac4605fb69b9c1bbf69c5732aad97f090f6f2b6ad29201",
